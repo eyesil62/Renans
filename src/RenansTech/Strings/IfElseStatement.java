@@ -1,4 +1,4 @@
-package RenansTech.Switch.Scanner;
+package RenansTech.Strings;
 
 public class IfElseStatement {
     public static void main(String[] args) {

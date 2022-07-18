@@ -1,4 +1,4 @@
-package RenansTech.Scannner;
+package RenansTech.Strings;
 
 public class Switch_Statement {
     public static void main(String[] args) {

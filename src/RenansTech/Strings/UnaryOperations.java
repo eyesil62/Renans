@@ -1,4 +1,4 @@
-package RenansTech.Switch.Scanner;
+package RenansTech.Strings;
 
 public class UnaryOperations {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package RenansTech.Switch.Scanner;
+package RenansTech.Strings;
 
 import javax.crypto.spec.PSource;
 

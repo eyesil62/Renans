@@ -1,4 +1,4 @@
-package RenansTech.Switch.Scanner;
+package RenansTech.Strings;
 
 public class Nested_ifstatement {
     public static void main(String[] args) {

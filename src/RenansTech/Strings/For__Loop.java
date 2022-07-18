@@ -1,4 +1,4 @@
-package RenansTech.Day11__ForLoops;
+package RenansTech.Strings;
 
 public class For__Loop {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package RenansTech.Scannner.Scanner.more;
+package RenansTech.Strings;
 
 import java.util.Scanner;
 
