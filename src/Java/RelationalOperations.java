@@ -1,4 +1,4 @@
-package RenansTech.Strings;
+package Java;
 
 public class RelationalOperations {
     public static void main(String[] args) {

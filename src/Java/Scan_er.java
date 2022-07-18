@@ -1,4 +1,4 @@
-package RenansTech.Strings;
+package Java;
 
 import javax.sound.midi.Soundbank;
 import java.util.Scanner;

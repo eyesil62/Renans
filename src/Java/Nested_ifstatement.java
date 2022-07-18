@@ -1,4 +1,4 @@
-package RenansTech.Strings;
+package Java;
 
 public class Nested_ifstatement {
     public static void main(String[] args) {

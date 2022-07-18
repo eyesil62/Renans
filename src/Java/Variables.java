@@ -1,4 +1,4 @@
-package RenansTech.Strings;
+package Java;
 
 public class Variables {
     public static void main(String[] args) {

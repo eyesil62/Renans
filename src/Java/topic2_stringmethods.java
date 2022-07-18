@@ -1,4 +1,4 @@
-package RenansTech.Strings;
+package Java;
 
 import org.omg.PortableInterceptor.ServerRequestInfo;
 

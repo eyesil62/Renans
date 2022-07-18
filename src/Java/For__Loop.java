@@ -1,4 +1,4 @@
-package RenansTech.Strings;
+package Java;
 
 public class For__Loop {
     public static void main(String[] args) {

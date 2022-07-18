@@ -1,4 +1,4 @@
-package RenansTech.Strings;
+package Java;
 
 public class Topic_examples {
     // user is asked to put a valid emails ( username)

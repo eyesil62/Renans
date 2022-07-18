@@ -1,4 +1,4 @@
-package RenansTech.Strings;
+package Java;
 
 public class PrePostCondition {
     public static void main(String[] args) {
