@@ -6,6 +6,11 @@ public class branchpractise {
         String = "this is branch example"
            String a = "";
         
+        hello;
+        git fetch then we say git merge
+            
+        
+        
 
     }
 }
