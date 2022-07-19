@@ -6,6 +6,9 @@ public class branchpractise {
         String = "this is branch example"
            String a = "";
         
+        hello;
+        
+        
 
     }
 }
