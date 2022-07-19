@@ -7,6 +7,8 @@ public class branchpractise {
            String a = "";
         
         hello;
+        git fetch then we say git merge
+            
         
         
 
