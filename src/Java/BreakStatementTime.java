@@ -26,7 +26,7 @@ public class BreakStatementTime {
 //
 //        }
 //        for (int a= 1; a<9; a+=1) {
-//            System.out.println(a);
+////            System.out.println(a);
 //
 //            if (a % 2 == 0 & a % 3 == 0) {
 //

@@ -27,21 +27,33 @@ public class WhileLoop {
 
        // System.out.println("\n"+"--------------");
 
-        int i = 0;
-        while (i<10) {
-            System.out.print("  " +i);
-            ++i;   // or i++
+//        int i = 0;
+//        while (i<10) {
+//            // ++i   - if the code entered here then instead of 0 it will start from 1 and goes to 10
+//            System.out.print("  " +i);
+//            ++i;   // or i++  --it's important to know when to increase
+
+            int j = 0;
+            while  (j<10) {
+                if (j==8) {
+
+                    continue;
+                }
+                System.out.println("the even numbers : " +j);
+                j+=2;
+
+                }
+
+            int k = 0;
+            while(k<=10) {
+            System.out.println("k = " + k);
+            if(k==9) {
+                break;
+            }
+
+            k++;
 
         }
+            }
+        }
 
-
-
-
-
-
-
-
-
-
-    }
-}
