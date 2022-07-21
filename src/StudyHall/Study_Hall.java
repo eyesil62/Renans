@@ -1,6 +1,9 @@
 package StudyHall;
 
 public class Study_Hall {
+    public static void main(String[] args) {
+
+
 
     /**
      * String remove duplicates
@@ -14,8 +17,9 @@ public class Study_Hall {
     // I would like to check the "a" here  = string str = str.char(0)
     // I want to check all the chat here, i need int to find out index number
     // java index number starts with "0"
-    //
-    String result = ""; // we will store answer in to this variable.
 
+
+
+}
 
 }

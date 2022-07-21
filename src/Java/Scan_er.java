@@ -26,7 +26,7 @@ public class Scan_er {
 
         //  Scanner scan = new Scanner ( System.in);
         //System.out.println("what's your name:");
-        // byte bytenumber = scan.nextByte();
+        // byte bytnumber = scan.nextByte();
         // System.out.println("now my byte number is "+bytenumber);
 
         // now my byte number is == 50
@@ -36,6 +36,8 @@ public class Scan_er {
        // System.out.println("Enter int number::: ");
        // int num = number.nextInt();
        // System.out.println("nummm");
+
+
 
     }
 }
