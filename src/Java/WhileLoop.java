@@ -5,7 +5,7 @@ public class WhileLoop {
 
                     // the concept of While Loop
             // We define the starting point before the "While"
-            // You have the end point in the while (endpoint)
+            // You have to have an end point in the while (endpoint)
             // you have the iteration inside the curly brackets
         /*
          * Which is better for loop or while loop?
@@ -52,6 +52,9 @@ public class WhileLoop {
             }
 
             k++;
+
+
+
 
         }
             }

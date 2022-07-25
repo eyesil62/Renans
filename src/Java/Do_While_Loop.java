@@ -11,7 +11,7 @@ public class Do_While_Loop {
 //
 //        int a = 0;
 //        int total = 0;
-//        do {9158344855 lino al man da
+//        do {
 //            if (i == 78)
 //                i += 2; }
 //        //    continue;
