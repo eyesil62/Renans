@@ -12,9 +12,9 @@ public class Homework_14 {
         int [] num = {6,7,2,3,90,-2,-90,-122,96,35};
         int minimum = num[3];
 
-        for (int number=-122; number<num.length;number++) {
-            if (minimum < number) {
-                minimum = num[number];
+        for (int a=0; a<num.length;a++) {
+            if (num[a] < minimum) {
+                minimum = num[a];
             }
         }
         System.out.println("minimum = " + minimum);
