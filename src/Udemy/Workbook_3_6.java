@@ -13,24 +13,37 @@ public class Workbook_3_6 {
         //  "Saturday": print ("I'm free!!");
         //  "Sunday": print ("I'm free!!");
         //  "otherwise": print ("that's not a day.");
-        int monday =1;
-        int tuesday = 2;
-        int wednesday = 3;
-        int thursday = 4;
 
-        int userinput = 2;
-        if (userinput==1) {
-            System.out.println(" Sorry, I have to stay at work late.");
-        } else if (userinput==2) {
-            System.out.println("It looks like I have meetings all day.");
-        } else if ( userinput==3) {
-            System.out.println("I have a dentist appointment. Some other time!");
-        } else if (userinput==4) {
-            System.out.println("Sorry, thursday is date night! ");
+        int day = 1;
+        switch (day) {
+            case 1 :
+                System.out.println("Sorry, I have to stay at work late");
+                break;
+            case 2:
+                System.out.println("It looks like I have meetings all day.");
+                break;
+            case 3 :
+                System.out.println("I have a dentist appointment. Some other time!");
+                break;
+            case 4:
+                System.out.println("Sorry, thursday is date night!");
+                break;
+            case 5:
+                System.out.println("I'm free!!");
+                break;
+            case 6:
+                System.out.println("I'm free!");
+                break;
+            case 7:
+                System.out.println("that's not a day.");
+                break;
+            default:{
+                System.out.println(" then something wrong"); }
         }
 
-        System.out.println( "according to user, tomorrow is " +(userinput+1) );
-
+        // if else used %95 of the times
+        // if else runs a piece of code if a condition is true
+        // swtich runs a piece of code if an argument matches the case
 
     }
 }
