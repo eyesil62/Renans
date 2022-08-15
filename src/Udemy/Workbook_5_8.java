@@ -16,7 +16,7 @@ public class Workbook_5_8 {
         */
 
         int secret =4;
-        System.out.print("I chose a number between 1 and 5. Try to guess it: ");
+        System.out.print("I chose a number between 1 and 5. Try to guess it:\n ");
 
         Scanner scan = new Scanner(System.in);
         int guess =scan.nextInt();
