@@ -7,6 +7,7 @@ import javax.xml.bind.SchemaOutputResolver;
 public class HomeWork_1 {
     public static void main(String[] args) {
         // June 20th
+        mus();
 
         String a = "Name : Ali";
         String b = "Name : Can";
@@ -24,7 +25,9 @@ public class HomeWork_1 {
         System.out.println(""+a+ "    "+k +"    "   +d);
         System.out.println(""+b+ "    " +m +"    " +e);
         System.out.println(""+c+ "    " +n +"    " +f);
+    }
+    public static void mus(){
 
-
+        System.out.println("mustafa");
     }
 }
