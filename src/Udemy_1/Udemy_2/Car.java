@@ -1,4 +1,4 @@
-package Udemy_2;
+package Udemy_1.Udemy_2;
 
 public class Car {
     private String make;

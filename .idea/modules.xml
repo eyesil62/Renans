@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Airlines/Airlines.iml" filepath="$PROJECT_DIR$/Airlines/Airlines.iml" />
       <module fileurl="file://$PROJECT_DIR$/Renanstech Class.iml" filepath="$PROJECT_DIR$/Renanstech Class.iml" />
     </modules>
   </component>

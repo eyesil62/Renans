@@ -1,6 +1,4 @@
-package Udemy_2;
-
-import com.sun.crypto.provider.HmacMD5KeyGenerator;
+package Udemy_1.Udemy_2;
 
 public class Main {
     public static void main(String[] args) {
