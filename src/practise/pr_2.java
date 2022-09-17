@@ -10,7 +10,7 @@ public class pr_2 {
         // divi with both print 3 and 5 print Rana
 
         Scanner scn = new Scanner(System.in);
-        System.out.println("-please enter a number\n-ensure the number bigger then 50");
+        System.out.println("-please enter a number\n");
         int num = scn.nextInt();
         for (int i = 1; i <=num; i++) {
 
